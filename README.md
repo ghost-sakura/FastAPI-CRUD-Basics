@@ -34,8 +34,17 @@ This project demonstrates the use of **Pydantic models**, **response validation*
 ## The API will be available at:
 
 - localhost/`http://127.0.0.1:8000`
+- 
+  <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/33b0950b-86bb-447d-b447-53ceb84fdd3d" />
+  
 - Swagger UI: `http://127.0.0.1:8000/docs`
+- 
+  <img width="700" height="700" alt="Screenshot 2025-12-16 011657" src="https://github.com/user-attachments/assets/ce6e51f9-cda2-4c99-89d8-100102c5d3e4" />
+  
 - ReDoc: `http://127.0.0.1:8000/redoc`
+- 
+  <img width="700" height="700" alt="Screenshot 2025-12-16 020043" src="https://github.com/user-attachments/assets/82039eab-e138-4134-8af8-30b698766c76" />
+
 
 
 ### 🔀 URL Routing
